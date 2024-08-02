@@ -23,7 +23,7 @@ Oferecemos pacotes em várias linguagens de programação para facilitar a integ
 - **Descrição**: Biblioteca JavaScript para conectar-se à API do Meeventos.
 - **Instalação**:
   ```bash
-  npm install meeventos/api
+    npm i @meeventos/api
   ```
 - **Repositório**: [API Meeventos JavaScript no GitHub](https://github.com/meeventos/api-meeventos-js)
 - **Documentação**: [Uso do Meeventos em JavaScript](https://github.com/meeventos/api-meeventos-js#readme)
