@@ -12,9 +12,9 @@ Oferecemos pacotes em várias linguagens de programação para facilitar a integ
 
 - **Descrição**: Cliente Python para a API do Meeventos.
 - **Instalação**:
-  {bash
+   ```bash
   pip install meeventos/api
-  }
+  ```
 - **Repositório**: [API Meeventos Python no GitHub](https://github.com/meeventos/api-meeventos-python)
 - **Documentação**: [Uso do Meeventos em Python](https://github.com/meeventos/api-meeventos-python#readme)
 
