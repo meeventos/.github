@@ -64,7 +64,7 @@ Oferecemos pacotes em várias linguagens de programação para facilitar a integ
 
 ## Suporte
 
-Para suporte técnico, por favor, envie suas questões exclusivamente por e-mail para [suporte@meeventos.com.br](mailto:suporte@meeventos.com.br). Nossa equipe de suporte responderá o mais rápido possível.
+Para suporte técnico, por favor, envie suas questões exclusivamente por e-mail para [suporte@meeventos.com.br](mailto:suporte@meeventos.com.br).
 
 ## Contribuições
 
