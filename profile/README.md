@@ -62,6 +62,16 @@ Oferecemos pacotes em várias linguagens de programação para facilitar a integ
 - **Repositório**: [API Meeventos Ruby no GitHub](https://github.com/meeventos/api-meeventos-ruby)
 - **Documentação**: [Uso do Meeventos em Ruby](https://github.com/meeventos/api-meeventos-ruby#readme)
 
+### Meeventos em Go
+
+- **Descrição**: Pacote Go para conectar-se à API do Meeventos.
+- **Instalação**:
+  ```bash
+  go get github.com/meeventos/api-meeventos-go
+  ```
+- **Repositório**: [API Meeventos Go no GitHub](https://github.com/meeventos/api-meeventos-go)
+- **Documentação**: [Uso do Meeventos em Go](https://github.com/meeventos/api-meeventos-go#readme)
+
 ## Suporte
 
 Para suporte técnico, por favor, envie suas questões exclusivamente por e-mail para [suporte@meeventos.com.br](mailto:suporte@meeventos.com.br).
